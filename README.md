@@ -4,7 +4,7 @@ Interested in building clean, maintainable backend systems and continuously impr
 
 ---
 
-## 🛠 Tech Stack (Dark Mode)
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=FFFFFF)
@@ -13,7 +13,7 @@ Interested in building clean, maintainable backend systems and continuously impr
 
 ---
 
-## 🖥 OS & Environment
+## OS & Environment
 
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FFFFFF)
 ![Fedora](https://img.shields.io/badge/Fedora-000000?style=for-the-badge&logo=fedora&logoColor=FFFFFF)
@@ -21,7 +21,7 @@ Interested in building clean, maintainable backend systems and continuously impr
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
 <!-- Большие круглые кнопки -->
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0&logoWidth=40)](https://t.me/edvardkuryla)
