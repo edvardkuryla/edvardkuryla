@@ -24,5 +24,5 @@ Interested in building clean, maintainable backend systems and continuously impr
 ## Contact Me
 
 <!-- Большие круглые кнопки -->
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0&logoWidth=40)](https://t.me/edvardkuryla)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&logoWidth=40)](https://www.instagram.com/edvard_kuryla/)
+[![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=FFFFFF&color=000000)](https://t.me/edvardkuryla)
+[![Instagram](https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=FFFFFF&color=000000)](https://www.instagram.com/edvard_kuryla/)
