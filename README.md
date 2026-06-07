@@ -1,6 +1,8 @@
-# 👋 Backend Developer (Python)
+#Backend Developer
 
-Interested in building clean, maintainable backend systems and continuously improving backend engineering skills.
+I am a backend developer passionate about continuously improving my backend engineering skills and building resilient, 
+highly available systems that can handle millions of requests and stay online 24/7. 
+I firmly believe that solid architecture is far more important than just beautiful code or a fancy frontend.
 
 ---
 
